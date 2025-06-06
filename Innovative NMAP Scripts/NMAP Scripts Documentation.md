@@ -1,6 +1,6 @@
 # Innovative Nmap Scripts Collection: Advanced Network Reconnaissance Tools
 
-**Author:** Manus AI  
+**Author:** Bilel Graine  
 **Date:** June 6, 2025  
 **Version:** 1.0
 
